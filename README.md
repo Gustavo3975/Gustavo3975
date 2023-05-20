@@ -33,15 +33,15 @@ Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=i
              <a href="https://nodejs.org" target="_blank">
                 </a> 
                        &nbsp;<a href="https://ads.google.com/intl/pt_BR/home/"><img
-                            src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/ads.png?raw=true" alt="ads" width="40"
+                            src="https://github.com/Gustavo3975/Gustavo3975/blob/main/ads.png" alt="ads" width="40"
                             height="40" /> </a>&nbsp;<a href="https://analytics.google.com"><img
-                            src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/analytics.png?raw=true" alt="analytics"
+                            src="https://github.com/Gustavo3975/Gustavo3975/blob/main/analytics.png" alt="analytics"
                             width="40" height="40" /> </a>
                            </a>&nbsp;<a href="https://tagmanager.google.com"><img
-                                src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/tag.png?raw=true" alt="tagmanager"
+                                src="https://github.com/Gustavo3975/Gustavo3975/blob/main/tag.png" alt="tagmanager"
                                 width="40" height="40" /> </a>
  &nbsp;<a href="https://google.com"><img
-                                src="https://raw.githubusercontent.com/RenanDevWeb/RenanDevWeb/master/Merchant5-300x300.webp" alt="merchant center"
+                                src="https://github.com/Gustavo3975/Gustavo3975/blob/main/Merchant5-300x300.webp" alt="merchant center"
                                 width="40" height="40" /> </a>
 </p>
 
